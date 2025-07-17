@@ -12,3 +12,8 @@
 ```bash
 # mengecek versi docker yang digunakan
 docker --version
+```
+```bash
+# menjalankan image hello-world
+docker run hello-world
+```

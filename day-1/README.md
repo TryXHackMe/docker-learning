@@ -17,3 +17,6 @@ docker --version
 # menjalankan image hello-world
 docker run hello-world
 ```
+---
+**Hasil Output**
+![Hello-World](https://raw.githubusercontent.com/TryXHackMe/docker-learning/day-1/main/ss.png)

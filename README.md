@@ -10,4 +10,4 @@ Dokumentasi belajar Docker, mulai dari `hello-world` sampai ke Docker Compose & 
 
 ---
 
-🎯 Progress sekarang: **Day 1 selesai ✅**
+🎯 Progress sekarang: **Day 2 selesai ✅**

@@ -38,6 +38,6 @@ CMD ["nginx", "-g", "daemon off;"]
 ```
 ---
 **Hasil Output**
-![Hello-World](https://raw.githubusercontent.com/TryXHackMe/docker-learning/refs/heads/main/day-1/Screenshot_2025-07-18_08-41-08.png)
+![Hello-World](https://raw.githubusercontent.com/TryXHackMe/docker-learning/refs/heads/main/day-2/Screenshot_2025-07-18_09-45-35.png)
 
 Status : Selsai

@@ -19,4 +19,4 @@ docker run hello-world
 ```
 ---
 **Hasil Output**
-![Hello-World](https://raw.githubusercontent.com/TryXHackMe/docker-learning/day-1/main/ss.png)
+![Hello-World](https://raw.githubusercontent.com/TryXHackMe/docker-learning/refs/heads/main/day-1/Screenshot_2025-07-18_08-41-08.png)
